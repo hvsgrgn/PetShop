@@ -1,0 +1,11 @@
+Laci pipacskorut7 1111
+Hamster Dagi GREEN 2000 1
+Hamster Cirmi BROWN 4000 0
+Leopard Reka BLACK 200000 5
+Tarantula Pokica WHITE -4000 0
+Tarantula Bogyo BLACK 3000 2.5
+Tarantula Ronda BLACK 3000 -3
+Finch Pipi GREY 10000 2
+
+
+Hamster Noname

@@ -1,0 +1,3 @@
+bolt kisallatutca3 1234
+Finch Bodri WHITE 8000 2
+Finch Madarka BROWN 9000 1
